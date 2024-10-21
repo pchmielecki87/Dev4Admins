@@ -2,7 +2,7 @@
 
 ## Installation and configuration
 
-Installed by default
+Install from HomeBrew `brew install python@3.13`
 
 ## Sections
 
