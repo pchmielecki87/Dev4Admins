@@ -2,7 +2,10 @@
 
 ## Installation and configuration
 
-Installed by default
+Follow [instructions](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos?view=powershell-7.4).
+
+`brew install powershell/tap/powershell`
+`pwsh ./script.ps1`
 
 ## Sections
 
