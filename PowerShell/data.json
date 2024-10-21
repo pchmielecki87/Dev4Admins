@@ -1,0 +1,14 @@
+{
+    "people": [
+        {
+            "name": "Alice",
+            "age": 30,
+            "skills": ["PowerShell", "C#", "Azure"]
+        },
+        {
+            "name": "Bob",
+            "age": 25,
+            "skills": ["Java", "Python"]
+        }
+    ]
+}
