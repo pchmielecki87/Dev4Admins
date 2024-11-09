@@ -16,5 +16,5 @@ Installed by default
 
 ## How to use
 
-chmod +x print_params_and_vars.sh
-./print_params_and_vars.sh param1 param2 param3
+chmod +x variables_params.sh
+./variables_params.sh param1 param2 param3

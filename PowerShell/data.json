@@ -1,12 +1,12 @@
 {
     "people": [
         {
-            "name": "Alice",
+            "name": "Margaret",
             "age": 30,
             "skills": ["PowerShell", "C#", "Azure"]
         },
         {
-            "name": "Bob",
+            "name": "Tim",
             "age": 25,
             "skills": ["Java", "Python"]
         }
