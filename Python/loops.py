@@ -5,7 +5,7 @@ while i>=1:
     i -= 1
 
 # FOR
-text = 'wyimaginowany'
+text = 'PythonJestSuper'
 j = 0
 for i in text:
     print(text[0:j])
