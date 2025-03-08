@@ -6,7 +6,7 @@
   VAR2=42
 
   PACKAGES_2BINSTALLED=(
-      apr-devel
+      apr-devel2
       apr-util
       apr-util-devel
       at

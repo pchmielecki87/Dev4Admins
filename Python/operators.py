@@ -10,6 +10,8 @@ else:
 
 val1 = 1_000_000
 print(val1)
+val2 = 1000000000000
+print(val2)
 
 # math
 val1 = 1/2

@@ -1,4 +1,6 @@
-# ./script.ps1 -Name "Alice" -Age 30 -Skills "Python","Java"
+# ./params.ps1 -Name "Alice" -Age 30 -Skills "Python","Java"
+# ./params.ps1 "Alice" 30 "Python","Java"
+#TODO add mandatory params
 
 #!/usr/bin/env pwsh
 # Default parameters
